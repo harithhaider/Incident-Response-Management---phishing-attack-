@@ -10,7 +10,7 @@ All activities were conducted in a controlled lab environment
 for educational and awareness purposes only.
 ASPX page on loclhost : https://youtu.be/qVLWhXX5VSk 
 Zphisher tool : https://youtu.be/kYuDcxcPotI 
-SEL tool : https://youtu.be/rMvfbjtabRI
+SEL tool : https://youtu.be/mdRLHZbE4Ng
 
 
 
